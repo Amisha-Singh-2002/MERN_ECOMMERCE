@@ -1,4 +1,4 @@
-node_modules/
-.env
-dist/
-.vscode/
+node_modules
+
+*.env
+Frontend/.git-backup/
